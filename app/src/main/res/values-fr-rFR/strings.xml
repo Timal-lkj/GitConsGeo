@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ConsGeo</string>
+    <string name="login">Nom</string>
+    <string name="password">Mot de passe</string>
+    <string name="se_connecter">Se connecter</string>
+</resources>
